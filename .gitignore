@@ -1,0 +1,4 @@
+dataset/subtitles/
+dataset/github/
+__pycache__/
+*.pyc

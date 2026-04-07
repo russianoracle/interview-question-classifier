@@ -1,0 +1,12 @@
+{
+  "vtt_files": 162,
+  "vtt_sentences": 102453,
+  "github_files": 59,
+  "github_questions": 16151,
+  "total_before_dedup": 118644,
+  "total_after_dedup": 74560,
+  "actionable": 67710,
+  "non_actionable": 6850,
+  "skipped_ambiguous": 40476,
+  "has_punct": 72628
+}
